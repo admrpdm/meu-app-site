@@ -1,0 +1,1 @@
+Sempre responda e se comunique em Português do Brasil (pt-BR). Toda a documentação, comentários de código e mensagens de commit devem ser preferencialmente em pt-BR.
